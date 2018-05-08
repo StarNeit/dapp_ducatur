@@ -42,7 +42,7 @@ $ truffle console
 ```sh
 truffle> migrate
 ```
-3. Deploy to test Ethereum network
+3. Deploy to ethereum test network
 ```sh
-...
+update truffle-config.js and migrate
 ```
