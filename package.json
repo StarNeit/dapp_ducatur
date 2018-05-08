@@ -23,6 +23,9 @@
     "mongodb": "^3.0.0-rc0",
     "mongoose": "^4.13.6",
     "node-schedule": "^1.2.5",
-    "nsp": "^2.6.3"
+    "nsp": "^2.6.3",
+    "truffle-contract": "^3.0.2",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^0.18.4"
   }
 }
