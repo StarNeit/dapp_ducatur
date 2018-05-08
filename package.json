@@ -1,0 +1,28 @@
+{
+  "name": "bw-token-daemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StarNeit/bw-token-daemon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StarNeit/bw-token-daemon/issues"
+  },
+  "homepage": "https://github.com/StarNeit/bw-token-daemon#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "dotenv": "^4.0.0",
+    "moment": "^2.19.4",
+    "mongodb": "^3.0.0-rc0",
+    "mongoose": "^4.13.6",
+    "node-schedule": "^1.2.5",
+    "nsp": "^2.6.3"
+  }
+}
