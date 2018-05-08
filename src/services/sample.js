@@ -1,5 +1,3 @@
-var Sample = require("../models/Transactions");
-
 var Web3 = require('web3');
 var contract = require('truffle-contract');
 var DucaturToken = require('../../build/contracts/DucaturToken.json');
