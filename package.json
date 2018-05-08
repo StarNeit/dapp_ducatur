@@ -1,5 +1,5 @@
 {
-  "name": "bw-token-daemon",
+  "name": "dapp_ducatur",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StarNeit/bw-token-daemon.git"
+    "url": "git+https://github.com/StarNeit/dapp_ducatur.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/StarNeit/bw-token-daemon/issues"
+    "url": "https://github.com/StarNeit/dapp_ducatur.git/issues"
   },
-  "homepage": "https://github.com/StarNeit/bw-token-daemon#readme",
+  "homepage": "https://github.com/StarNeit/dapp_ducatur.git#readme",
   "dependencies": {
     "express": "^4.16.2",
     "dotenv": "^4.0.0",
