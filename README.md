@@ -22,8 +22,9 @@ To run tests you need to install the following software:
 Open the terminal and run the following commands:
 
 ```sh
-$ cd bwc-smartcontract
+$ cd dapp_ducatur
 $ truffle migrate
+$ node index.js
 ```
 
 NOTE: All tests must be run separately as specified.
@@ -34,10 +35,14 @@ NOTE: All tests must be run separately as specified.
 To deploy smart contracts to live network do the following steps:
 1. Go to the smart contract folder and run truffle console:
 ```sh
-$ cd bwc-smartcontract
+$ cd dapp_ducatur
 $ truffle console
 ```
 2. Inside truffle console, invoke "migrate" command to deploy contracts:
 ```sh
 truffle> migrate
+```
+3. Deploy to test Ethereum network
+```sh
+...
 ```
