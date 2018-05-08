@@ -24,6 +24,4 @@ mongoose.connection.on("error", () => {
     process.exit();
 });
 
-const sampleDaemon = schedule.scheduleJob("*/" + process.env.SCHEDULE_INTERVAL + " * * * * *", sampleService);
-
-console.log("---------- Started Sample Daemon ----------");
+sampleService();
